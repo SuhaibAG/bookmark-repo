@@ -1,0 +1,40 @@
+.one-mark{
+    background-color: rgb(216, 216, 216);
+    border: 3px solid rgb(85, 97, 97);
+    width: 20%;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 1%;
+    border-radius: 8px;
+    display: inline-block;
+
+}
+.remove-bookmark{
+    padding: 0.5vh 1.2vw;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: grey;
+    color: white;
+}
+
+.adding-container{
+    background-color: rgb(216, 216, 216);
+    border: 3px solid rgb(85, 97, 97);
+    width: 30%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 8px;
+    padding: 10px;
+    display: block;
+}
+input{
+    margin: 10px;
+
+}
+
+a:link{color:inherit}
+a:active{color:inherit}
+a:visited{color:inherit}
+a:hover{color:inherit}
